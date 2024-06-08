@@ -1,5 +1,6 @@
 # LexBoost
-Improving lexical document retrieval with nearest neighbors.
+
+This repository contains the code to reproduce results in the paper "LexBoost: Improving Lexical Document Retrieval with Nearest Neighbors" accepted at The 24th ACM Symposium on Document Engineering (DocEng 2024).
 
 In this work we extensively evaluate the proposed method LexBoost and show robustness and statistically significant improvements across baselines, datasets and corpus graph construction methods with virtually no additional latency overheads. We also show that LexBoost improves reranking results as well.
 
