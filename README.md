@@ -4,6 +4,8 @@ This repository contains the code to reproduce results in the paper "LexBoost: I
 
 In this work we extensively evaluate the proposed method LexBoost and show robustness and statistically significant improvements across baselines, datasets and corpus graph construction methods with virtually no additional latency overheads. We also show that LexBoost improves reranking results as well.
 
+The paper can be found here: https://dl.acm.org/doi/10.1145/3685650.3685658
+
 ## Citation
 
 If you use this code please cite the following paper:
